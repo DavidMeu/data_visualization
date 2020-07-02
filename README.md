@@ -8,3 +8,7 @@
 | rolling two D6 dice 1000 times | rolling D6 and a D10 50,000 times |
 | ------------ | ------------- |
 | ![two_D6](images/two_D6_dice.PNG) | ![D6_and_D10](images/D6_and_D10.PNG) |
+
+| Death Valley CA 2014 temperatures | 
+| ------------ |
+| ![death_vally](images/death_vally.png) |
