@@ -9,6 +9,6 @@
 | ------------ | ------------- |
 | ![two_D6](images/two_D6_dice.PNG) | ![D6_and_D10](images/D6_and_D10.PNG) |
 
-| Death Valley CA 2014 temperatures | 
-| ------------ |
-| ![death_vally](images/death_vally.png) |
+| Death Valley CA 2014 temperatures | World population for 2010 |
+| ------------ | ------------- |
+| ![death_vally](images/death_vally.png) | ![world_population](images/world_population.PNG)
